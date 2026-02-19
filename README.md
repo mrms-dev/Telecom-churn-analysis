@@ -30,9 +30,9 @@ Este projeto tem como objetivo analisar o alto índice de cancelamentos (churn) 
 
 ## 📂 Estrutura do Repositório
 
-* README.md → Documentação do projeto
-* telecomx_churn_limpo_atualizado.csv → Base de dados tratada
-* notebook_colab.ipynb → Notebook com ETL, EDA e análises
+* README.md → Documentação do projeto  
+* telecomx_churn_limpo.csv → Base de dados tratada (versão inicial do ETL)  
+* telecomx_churn_limpo_atualizado.csv → Base final após limpeza, padronização e preparação para análise    
 
 ## 🎯 Objetivo da Análise
 
