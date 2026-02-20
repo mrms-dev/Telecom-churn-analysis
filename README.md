@@ -33,10 +33,12 @@ Identificar padrões de comportamento dos clientes que cancelam os serviços, ap
 - [x] Criação de gráficos para análise de evasão de clientes.
 
 ## 📂 Estrutura do Repositório
-* `README.md` → Documentação do projeto.
-* `telecomx_churn_limpo.csv` → Base de dados tratada (versão inicial do ETL).
-* `telecomx_churn_limpo_atualizado.csv` → Base final após limpeza, padronização e preparação para análise.
-* `projeto_churn.ipynb` → Notebook completo com o código em Python.
+* `.gitignore` → Arquivo de configuração para ignorar arquivos desnecessários no rastreamento do Git.
+* `LICENSE` → Arquivo contendo os termos da licença MIT.
+* `README.md` → Documentação principal do projeto.
+* `Telecom_churn_analysis.ipynb` → Notebook completo com o código em Python (ETL, EDA e visualizações).
+* `telecomx_churn_limpo.csv` → Base de dados tratada (versão inicial do processo de ETL).
+* `telecomx_churn_limpo_atualizado.csv` → Base de dados final após limpeza, padronização e preparação para análise.
 
 ---
 ## 👤 Autor
