@@ -23,13 +23,13 @@ Através do processo de *drill-down* nos dados, a análise revelou uma "Tempesta
 * **Evasão Precoce (Early Churn):** O vazamento de clientes é massivo no **1º mês de uso** (mediana geral de permanência de apenas 10 meses para quem cancela).
 * **O Risco da Falta de Fidelidade:** Clientes no contrato **Mensal** apresentam uma taxa de mortalidade de **42.7%**.
 * **O Paradoxo da Fibra Óptica:** O produto mais caro e avançado do portfólio é o maior responsável pelas perdas (**41.9%** de taxa de cancelamento).
-* **A Gota D'água (Falta de Suporte):** A esmagadora maioria dos clientes de Fibra Óptica que cancelaram **não possuía Suporte Técnico** contratado para lidar com instabilidades no primeiro mês.
+* **O Fator Crítico de Abandono (Falta de Suporte):** A ausência de uma rede de apoio é fatal para a retenção. Entre os clientes de Fibra Óptica que cancelaram o serviço, impressionantes **84.9% não possuíam Suporte Técnico** contratado, contra apenas 15.1% que tinham o serviço. Isso comprova que vender um produto *premium* sem amparo técnico para instabilidades iniciais é o gatilho definitivo para a evasão.
 
-*(Nota: Adicione as imagens dos seus gráficos abaixo fazendo o upload na pasta do GitHub e substituindo os links)*
-
-![Exemplo de Gráfico - Fibra Óptica vs DSL](caminho_para_sua_imagem_1.png)
-<br>
-![Exemplo de Gráfico - Falta de Suporte Técnico](caminho_para_sua_imagem_2.png)
+<div align="center">
+  <img src="Fibra%20Óptica%20vs%20DSL.png" alt="Gráfico: Fibra Óptica vs DSL" width="700">
+  <br><br>
+  <img src="Falta%20de%20Suporte%20Técnico.png" alt="Gráfico: Falta de Suporte Técnico" width="700">
+</div>
 
 ## 📋 Etapas do Projeto
 * **1.** Configuração do ambiente e importação das bibliotecas.
@@ -49,6 +49,8 @@ Através do processo de *drill-down* nos dados, a análise revelou uma "Tempesta
 
 ## 📂 Estrutura do Repositório e Organização dos Arquivos
 * `.gitignore` → Arquivo de configuração para ignorar rastreios indesejados no Git.
+* `Falta de Suporte Técnico.png` → Imagem do gráfico de análise de suporte técnico.
+* `Fibra Óptica vs DSL.png` → Imagem do gráfico de comparação de tecnologias de internet.
 * `LICENSE` → Arquivo contendo os termos da licença MIT.
 * `README.md` → Documentação principal do projeto.
 * `Telecom_churn_analysis.ipynb` → Notebook completo com o código em Python (ETL, EDA e visualizações).
