@@ -64,3 +64,17 @@ Para reproduzir esta análise na sua máquina local ou em nuvem, siga os passos 
 1. Clone este repositório para a sua máquina:
    ```bash
    git clone [https://github.com/mrms-dev/Telecom-churn-analysis.git](https://github.com/mrms-dev/Telecom-churn-analysis.git)
+
+## 👤 Autor
+
+**Marcos Rivanio Marinho dos Santos**
+* **Email:** marcosrivanio@gmail.com
+* **GitHub:** [https://github.com/mrms-dev](https://github.com/mrms-dev)
+* **LinkedIn:** [https://www.linkedin.com/in/marcos-rivanio-santos/](https://www.linkedin.com/in/marcos-rivanio-santos/)
+
+> *Projeto desenvolvido como parte de um portfólio profissional em Data Science, com foco em análise de dados, pensamento analítico e resolução de problemas de negócio.*
+
+📫 **Aberto a feedbacks, colaborações e oportunidades.**
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT - sinta-se livre para utilizar, clonar e adaptar o código para os seus próprios estudos e projetos.
