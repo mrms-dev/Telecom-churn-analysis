@@ -63,4 +63,4 @@ Para reproduzir esta análise na sua máquina local ou em nuvem, siga os passos 
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/mrms-dev/Churn-Analysis.git](https://github.com/mrms-dev/Churn-Analysis.git)
+   git clone [https://github.com/mrms-dev/Telecom-churn-analysis.git](https://github.com/mrms-dev/Telecom-churn-analysis.git)
