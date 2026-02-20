@@ -39,4 +39,13 @@ Identificar padrões de comportamento dos clientes que cancelam os serviços, ap
 * `projeto_churn.ipynb` → Notebook completo com o código em Python.
 
 ---
-**Desenvolvido por Maxwell Gomes da Silva, PhD**
+## 👤 Autor
+
+**Marcos Rivanio Marinho dos Santos**
+* **Email:** marcosrivanio@gmail.com
+* **GitHub:** [https://github.com/mrms-dev](https://github.com/mrms-dev)
+* **LinkedIn:** [https://www.linkedin.com/in/marcos-rivanio-santos/](https://www.linkedin.com/in/marcos-rivanio-santos/)
+
+> *Projeto desenvolvido como parte de um portfólio profissional em Data Science, com foco em análise de dados, pensamento analítico e resolução de problemas de negócio.*
+
+📫 **Aberto a feedbacks, colaborações e oportunidades.**
