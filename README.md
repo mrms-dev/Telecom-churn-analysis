@@ -67,14 +67,13 @@ Para reproduzir esta análise na sua máquina local ou em nuvem, siga os passos 
 
 ## Autor
 
-**Marcos Rivanio Marinho dos Santos**
-* **Email:** marcosrivanio@gmail.com
-* **GitHub:** [https://github.com/mrms-dev](https://github.com/mrms-dev)
-* **LinkedIn:** [https://www.linkedin.com/in/marcos-rivanio-santos/](https://www.linkedin.com/in/marcos-rivanio-santos/)
+<div align="center">
+  <img src="https://github.com/mrms-dev.png" width="100px;" alt="Foto de Marcos Rivanio"/><br>
+  <sub><b>Desenvolvido por:</b></sub><br>
+  <b>Marcos Rivanio Marinho dos Santos,</b>
+  <br>
 
-> *Projeto desenvolvido como parte de um portfólio profissional em Data Science, com foco em análise de dados, pensamento analítico e resolução de problemas de negócio.*
-
-**Aberto a feedbacks, colaborações e oportunidades.**
-
-##Licença
-Este projeto está licenciado sob a licença MIT - sinta-se livre para utilizar, clonar e adaptar o código para os seus próprios estudos e projetos.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrms-dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrms-dev.github.io)
+</div>
